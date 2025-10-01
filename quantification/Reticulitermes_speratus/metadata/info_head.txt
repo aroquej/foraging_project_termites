@@ -1,0 +1,14 @@
+sample sex tissue caste
+DRR090838 male head worker
+DRR090841 female head worker
+DRR090843 male head soldier
+DRR090844 male head worker
+DRR090847 female head soldier
+DRR090853 male head worker
+DRR090854 female head worker
+DRR090857 female head worker
+DRR090858 male head soldier
+DRR090861 male head soldier
+DRR090862 female head soldier
+DRR090865 female head soldier
+

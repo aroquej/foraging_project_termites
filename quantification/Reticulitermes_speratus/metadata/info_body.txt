@@ -1,0 +1,14 @@
+sample sex tissue caste
+DRR090831 female body soldier
+DRR090840 male body worker
+DRR090842 female body worker
+DRR090846 male body soldier
+DRR090848 female body soldier
+DRR090852 male body worker
+DRR090855 male body worker
+DRR090856 female body worker
+DRR090859 female body worker
+DRR090860 male body soldier
+DRR090863 male body soldier
+DRR090864 female body soldier
+

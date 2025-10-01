@@ -1,0 +1,8 @@
+sample caste
+SRR22996134 worker 
+SRR22996135 worker
+SRR22996136 worker
+SRR22996141 soldier
+SRR22996142 soldier
+SRR22996143 soldier
+SRR22996144 soldier

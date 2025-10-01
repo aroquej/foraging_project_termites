@@ -1,0 +1,99 @@
+Sample: DRR090831_mapped
+Mean: 99.00
+Standard Deviation: 7.68
+
+Sample: DRR090838_mapped
+Mean: 98.08
+Standard Deviation: 9.12
+
+Sample: DRR090840_mapped
+Mean: 97.45
+Standard Deviation: 9.82
+
+Sample: DRR090841_mapped
+Mean: 97.88
+Standard Deviation: 9.42
+
+Sample: DRR090842_mapped
+Mean: 97.70
+Standard Deviation: 9.57
+
+Sample: DRR090843_mapped
+Mean: 97.83
+Standard Deviation: 9.45
+
+Sample: DRR090844_mapped
+Mean: 98.11
+Standard Deviation: 9.07
+
+Sample: DRR090846_mapped
+Mean: 98.03
+Standard Deviation: 9.17
+
+Sample: DRR090847_mapped
+Mean: 97.78
+Standard Deviation: 9.50
+
+Sample: DRR090848_mapped
+Mean: 98.63
+Standard Deviation: 8.31
+
+Sample: DRR090852_mapped
+Mean: 97.76
+Standard Deviation: 9.39
+
+Sample: DRR090853_mapped
+Mean: 98.84
+Standard Deviation: 7.93
+
+Sample: DRR090854_mapped
+Mean: 98.18
+Standard Deviation: 8.94
+
+Sample: DRR090855_mapped
+Mean: 97.97
+Standard Deviation: 9.13
+
+Sample: DRR090856_mapped
+Mean: 98.01
+Standard Deviation: 9.08
+
+Sample: DRR090857_mapped
+Mean: 98.97
+Standard Deviation: 7.75
+
+Sample: DRR090858_mapped
+Mean: 97.82
+Standard Deviation: 9.37
+
+Sample: DRR090859_mapped
+Mean: 97.84
+Standard Deviation: 9.30
+
+Sample: DRR090860_mapped
+Mean: 98.19
+Standard Deviation: 8.91
+
+Sample: DRR090861_mapped
+Mean: 98.76
+Standard Deviation: 8.12
+
+Sample: DRR090862_mapped
+Mean: 98.08
+Standard Deviation: 9.12
+
+Sample: DRR090863_mapped
+Mean: 98.98
+Standard Deviation: 7.73
+
+Sample: DRR090864_mapped
+Mean: 98.12
+Standard Deviation: 9.09
+
+Sample: DRR090865_mapped
+Mean: 98.79
+Standard Deviation: 8.07
+
+=== Combined Statistics ===
+Combined Mean: 98.20
+Combined Standard Deviation: 8.92

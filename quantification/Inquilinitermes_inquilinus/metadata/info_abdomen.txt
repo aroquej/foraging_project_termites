@@ -1,0 +1,8 @@
+sample caste tissue
+SRR22996137 worker abdomen
+SRR22996138 worker abdomen
+SRR22996139 worker abdomen
+SRR22996145 soldier abdomen
+SRR22996146 soldier abdomen
+SRR22996147 soldier abdomen
+SRR22996148 soldier abdomen

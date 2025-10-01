@@ -1,0 +1,11 @@
+sample caste
+DRR110536 worker
+DRR110537 worker
+DRR110538 worker
+DRR110539 worker
+DRR110540 worker
+DRR110546 soldier
+DRR110547 soldier
+DRR110548 soldier
+DRR110549 soldier
+DRR110550 soldier

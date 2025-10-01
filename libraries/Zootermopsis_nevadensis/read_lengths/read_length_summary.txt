@@ -1,0 +1,63 @@
+Sample: DRR110536
+Mean: 99.62
+Standard Deviation: 6.31
+
+Sample: DRR110537
+Mean: 100.20
+Standard Deviation: 5.01
+
+Sample: DRR110538
+Mean: 100.07
+Standard Deviation: 5.43
+
+Sample: DRR110539
+Mean: 99.58
+Standard Deviation: 6.59
+
+Sample: DRR110540
+Mean: 99.66
+Standard Deviation: 6.43
+
+Sample: DRR110541
+Mean: 99.62
+Standard Deviation: 6.35
+
+Sample: DRR110542
+Mean: 100.10
+Standard Deviation: 5.30
+
+Sample: DRR110543
+Mean: 100.12
+Standard Deviation: 5.30
+
+Sample: DRR110544
+Mean: 99.83
+Standard Deviation: 6.02
+
+Sample: DRR110545
+Mean: 99.83
+Standard Deviation: 6.01
+
+Sample: DRR110546
+Mean: 99.59
+Standard Deviation: 6.41
+
+Sample: DRR110547
+Mean: 100.12
+Standard Deviation: 5.24
+
+Sample: DRR110548
+Mean: 100.10
+Standard Deviation: 5.36
+
+Sample: DRR110549
+Mean: 99.69
+Standard Deviation: 6.37
+
+Sample: DRR110550
+Mean: 99.77
+Standard Deviation: 6.23
+
+=== Combined Statistics ===
+Combined Mean: 99.85
+Combined Standard Deviation: 5.94
